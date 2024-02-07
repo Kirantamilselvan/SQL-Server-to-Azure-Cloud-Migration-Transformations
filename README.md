@@ -1,0 +1,1 @@
+# https-github.com-Mani31899-SQL-Server-to-Azure-Cloud-Migration-Transformations
